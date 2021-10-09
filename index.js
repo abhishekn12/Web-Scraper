@@ -23,4 +23,4 @@ axios(url)
     console.log(articles)
 }).catch(err => console.log(err))
 
-app.listen(PORT, ()=> console.log('Server runnning on PORT 8000'))
+app.listen(PORT, ()=> console.log('Server runnning on port 8000'))
